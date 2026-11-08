@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63b589176a34b344b9ccbee2b7e7114a, type: 3}
+  m_Name: Meta
+  m_EditorClassIdentifier: VRM::VRM.VRMMetaObject
+  ExporterVersion: saturday06_blender_vrm_exporter_experimental_2.10.3
+  Title: VIPE Hero #824
+  Version: 1.0
+  Author: Polygonal Mind
+  ContactInformation: twitter.com/vipeio // twitter.com/polygonalmind
+  Reference: www.vipe.io // www.polygonalmind.com
+  Thumbnail: {fileID: 2800000, guid: 880cc7b4f0221534fa6f82fcea010efa, type: 3}
+  AllowedUser: 1
+  ViolentUssage: 1
+  SexualUssage: 1
+  CommercialUssage: 1
+  OtherPermissionUrl: 
+  LicenseType: 2
+  OtherLicenseUrl: 

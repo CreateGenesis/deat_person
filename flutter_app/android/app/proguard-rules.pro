@@ -1,0 +1,2 @@
+-keep class com.example.virtual_agent.UnityHostBridge { *; }
+-keep class com.example.virtual_agent.UnityHostActivity { *; }

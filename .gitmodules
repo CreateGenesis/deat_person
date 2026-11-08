@@ -1,0 +1,4 @@
+[submodule "virtual-agent-backend"]
+	path = virtual-agent-backend
+	url = https://github.com/CreateGenesis/virtual-agent-backend.git
+	branch = main

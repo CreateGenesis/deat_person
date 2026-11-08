@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "com.unity.ai.navigation": "2.0.0",
+    "com.unity.collab-proxy": "2.2.0",
+    "com.unity.cloud.gltfast": "file:com.unity.cloud.gltfast-6.20.0.tgz",
+    "com.vrmc.gltf": "https://github.com/vrm-c/UniVRM.git?path=/Packages/UniGLTF#v0.131.2",
+    "com.vrmc.univrm": "https://github.com/vrm-c/UniVRM.git?path=/Packages/VRM#v0.131.2",
+    "com.unity.ide.rider": "3.0.27",
+    "com.unity.ide.visualstudio": "2.0.22",
+    "com.unity.nuget.newtonsoft-json": "3.2.2",
+    "com.unity.render-pipelines.universal": "17.0.1",
+    "com.unity.test-framework": "1.4.2",
+    "com.unity.timeline": "1.8.6",
+    "com.unity.ugui": "2.0.0",
+    "com.unity.visualscripting": "1.9.1",
+    "com.unity.ai.assistant": "2.18.0-pre.2",
+    "com.unity.ai.inference": "2.6.1",
+    "com.unity.pipeline": "0.5.0-exp.1",
+    "com.easyar.sense": "file:EasyARSenseUnityPluginForMega_4003.1.0+5282.db47c2304/com.easyar.sense-4003.1.0+5282.db47c2304.tgz",
+    "com.easyar.mega": "file:EasyARSenseUnityPluginForMega_4003.1.0+5282.db47c2304/com.easyar.mega-2.14.0+5282.db47c2304.tgz",
+    "com.easyar.mega.studio": "file:EasyARSenseUnityPluginForMega_4003.1.0+5282.db47c2304/com.easyar.mega.studio-2.13.1+5282.db47c2304.tgz"
+  }
+}
